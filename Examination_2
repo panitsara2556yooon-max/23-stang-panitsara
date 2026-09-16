@@ -11,3 +11,4 @@ price = float(input("กรุณาใส่ราคาสินค้า:   "
 discount = float(input("กรุณาใส่จำนวนเงินที่ได้รับส่วนลด:   "))
 
 total=price/discount
+      print("total")
